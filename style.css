@@ -10,18 +10,20 @@ h1{
 
 .buttons{
     margin: auto;
-    width:800px;
+    width:450px;
+    height:200px;
     background-color:rgb(96, 102, 108);
+    align-items: center;
 }
 
 #boing{
-    color:rgb(255, 215, 215);
+    background-color:rgb(255, 215, 215);
 }
 
 #floop{
-    color:rgb(219, 254, 251);
+    background-color:rgb(219, 254, 251);
 }
 
 #bloop{
-    color:rgb(215, 228, 255);
+    background-color:rgb(215, 228, 255);
 }
