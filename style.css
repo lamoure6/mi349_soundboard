@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(112, 118, 125);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+}
+
+.buttons{
+    margin: auto;
+    width:800px;
+    background-color:rgb(96, 102, 108);
+}
+
+#boing{
+    color:rgb(255, 215, 215);
+}
+
+#floop{
+    color:rgb(219, 254, 251);
+}
+
+#bloop{
+    color:rgb(215, 228, 255);
+}
