@@ -17,6 +17,15 @@ h1{
     font-size:1.5em;
 }
 
+#boing,#floop,#bloop{
+    font-size:1.5em;
+    margin: 1em;
+    padding:0.25em;
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
 #boing{
     background-color:rgb(255, 215, 215);
 }
