@@ -1,17 +1,20 @@
 function playBoing(){
     var boing = new Audio();
     boing.src = "boing.wav";
-    document.getElementById("boing").onclick = boing.play();
+    boing.play();
 }
+document.getElementById("boing").onclick = playBoing;
 
 function playFloop(){
     var floop = new Audio();
     floop.src = "floop.wav";
-    document.getElementById("floop").onclick = floop.play();
+    floop.play();
 }
+document.getElementById("floop").onclick = playFloop;
 
 function playBloop(){
     var bloop = new Audio();
     bloop.src = "bloop.wav";
-    document.getElementById("bloop").onclick = floop.play();
+    bloop.play();
 }
+document.getElementById("bloop").onclick = playBloop;
